@@ -1,99 +1,111 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Sri Harsha</h1>
-<h3 align="center">Data Analyst & Full Stack Web Developer from India </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Full+Stack+Web+Developer;Java+%7C+Python+%7C+Spring+Boot;Tableau+%7C+Power+BI+%7C+SQL;AWS+%7C+Node.js&center=true&width=650&height=45">
-</p>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+# Hey there, I'm Harsha 👋
 
-I am a **Data Analyst and Full Stack Web Developer** with hands-on experience in analysing data, building dashboards, and developing scalable web applications. I enjoy combining **data-driven insights** with **clean, efficient code** to solve real-world problems.
+### AI Engineer | Python Developer | GenAI Enthusiast
 
-- 📊 Data Analysis, Visualisation & Reporting  
-- 💻 Full Stack & Backend Development  
-- ☁️ Cloud exposure with AWS  
-- 🚀 Constantly learning and improving
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+with+Generative+AI;Exploring+LLMs+%26+RAG;Machine+Learning+%7C+Deep+Learning;Python+%7C+n8n;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshavemula18&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🔹 Programming Languages
+- 🐍 Passionate about Python and AI development.
+- 🤖 Exploring Generative AI, LLMs, RAG and Prompt Engineering.
+- 🧠 Interested in Machine Learning, Deep Learning and Data Science.
+- ⚙️ Building AI workflows and automations using n8n.
+- 🌐 Interested in web development using HTML and CSS.
+- 💡 Love solving problems with DSA and learning new technologies.
+- 🎯 Building intelligent and scalable AI applications.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming & Web Development
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🔹 Backend & Full Stack
+### 🤖 AI, Machine Learning & GenAI
+
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge"/>
 </p>
 
-### 🔹 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### ⚡ Automation & Problem Solving
 
-### 🔹 Data Analytics & Visualisation
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-1F6FEB?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📂 Featured Work
+## 📊 GitHub Statistics
 
-### 📊 Data Analytics
-- Data cleaning and analysis using **Excel, SQL, and Python**
-- Interactive dashboards using **Tableau and Power BI**
-- Insight generation for business decision-making
+<div align="center">
 
-### 💻 Full Stack Development
-- REST APIs using **Spring Boot & Node.js**
-- Responsive web pages using **HTML & CSS**
-- Cloud deployment and basic DevOps on **AWS**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshavemula18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavemula18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-## 📈 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/https://github.com/Harshavemula18&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/https://github.com/Harshavemula18&theme=tokyonight" height="165"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=harshavemula18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Data Analytics & BI**
-- **Cloud-native application development**
-- Backend scalability & system design
+## 🔥 What I'm Working On
+
+- 🧠 AI applications powered by LLMs and RAG.
+- 🔗 Intelligent automation workflows with n8n.
+- 📊 Machine learning and data science projects.
+- 💻 Python programming and web development.
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/sri-harsha-vemula-164b5a211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harshavemula94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/harshavemula18">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<div align="center">
+
+### 💭 "Keep learning. Keep building. Keep innovating."
+
+⭐ Thanks for visiting my profile!
+
+</div>
