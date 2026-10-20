@@ -82,7 +82,7 @@
 - 🧠 AI applications powered by LLMs and RAG.
 - 🔗 Intelligent automation workflows with n8n.
 - 📊 Machine learning and data science projects.
-- 💻 Python programming and web development.
+- 💻 Python programming and web development
 
 ---
 
