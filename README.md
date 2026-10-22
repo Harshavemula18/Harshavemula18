@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills.
 
 ### 💻 Programming & Web Development
 
