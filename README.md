@@ -26,7 +26,7 @@
 - ⚙️ Building AI workflows and automations using n8n.
 - 🌐 Interested in web development using HTML and CSS.
 - 💡 Love solving problems with DSA and learning new technologies.
-- 🎯 Building intelligent and scalable AI applications.
+- 🎯 Building intelligent and scalable AI applications..
 
 ---
 
